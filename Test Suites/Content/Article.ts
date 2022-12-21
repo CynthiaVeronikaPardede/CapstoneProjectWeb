@@ -12,21 +12,35 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>160ea0ab-433f-4540-9072-aa8fbfe0484d</testSuiteGuid>
    <testCaseLink>
-      <guid>7edd2d07-2698-4da7-b45b-03bbe7d4bb55</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Content/Articlee/seelist</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>bc905449-a58e-4cd3-908a-1377c96981a1</guid>
+      <guid>f1f7606c-511d-4e59-a8e9-c787323d0949</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Content/Articlee/Search</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>eeda5cbd-d70e-4856-8d6d-a3c36dbf8385</guid>
+      <guid>d11a9538-823f-43b9-9986-28b3f90745df</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Content/Articlee/seelist</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1f912d24-9e5a-4234-bc89-e2b2537b3956</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Content/Articlee/Edit</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e0317710-ec8f-4999-8b11-0c858bca96ab</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Content/Articlee/delete</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6b0f195a-9545-4ad1-ba93-b3eb341c4b38</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Content/Articlee/add</testCaseId>

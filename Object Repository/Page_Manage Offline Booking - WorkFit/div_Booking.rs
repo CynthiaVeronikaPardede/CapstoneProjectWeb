@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Booking</name>
+   <tag></tag>
+   <elementGuidId>b221a563-57b6-444d-91ae-fe987b32113e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/aside/div/div/ul/li[6]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9fed0457-0e8e-40ae-a9ba-812fa3823c32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-1 flex items-center rounded-lg bg-primary-violet bg-opacity-10 p-2 text-sm font-normal text-primary-violet transition-all duration-300 ease-in-out hover:bg-indigo-200</value>
+      <webElementGuid>6f2c536e-64c9-4b86-aad6-5a1c0c1141a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Booking</value>
+      <webElementGuid>a2d9ded9-383e-4450-a7e0-a98b8b2e177a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/aside[@class=&quot;fixed top-0 bottom-0 left-0 z-30 mt-14 hidden w-52 leading-none transition-all duration-300 sm:hidden md:block&quot;]/div[@class=&quot;relative z-40 hidden h-full flex-col justify-between overflow-y-auto bg-white py-2 px-3 sm:flex md:h-full&quot;]/div[@class=&quot;relative&quot;]/ul[1]/li[6]/a[@class=&quot;active&quot;]/div[@class=&quot;mb-1 flex items-center rounded-lg bg-primary-violet bg-opacity-10 p-2 text-sm font-normal text-primary-violet transition-all duration-300 ease-in-out hover:bg-indigo-200&quot;]</value>
+      <webElementGuid>c288dc4c-bfac-425e-ada9-d9737fbc6645</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/aside/div/div/ul/li[6]/a/div</value>
+      <webElementGuid>ed47f925-bb76-442b-b87f-eec03e4e6e05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Classes'])[1]/following::div[1]</value>
+      <webElementGuid>a3ad4ab2-c6c5-4705-8b69-e0e0c9a689d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Classes'])[1]/following::div[2]</value>
+      <webElementGuid>fe5533e9-1f04-44bf-8761-ff9172d308b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Content'])[1]/preceding::div[1]</value>
+      <webElementGuid>0f23e612-aec7-43fa-b48f-ca741187404a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/div</value>
+      <webElementGuid>d899c96a-8c90-466b-b694-2e71cc71c83e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Booking' or . = 'Booking')]</value>
+      <webElementGuid>4e861f07-11fb-49a5-9a5d-b76a0be39609</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

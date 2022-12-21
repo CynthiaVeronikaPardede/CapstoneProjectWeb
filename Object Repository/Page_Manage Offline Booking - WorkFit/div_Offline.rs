@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Offline</name>
+   <tag></tag>
+   <elementGuidId>97764096-0ab2-4e15-bb89-d0d4c19d8564</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-secondary.inline-block.rounded-t-lg.border-b-2.border-secondary-navy.p-4.text-sm.font-medium.text-secondary-navy.transition-all.duration-300.ease-in-out</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/div/ul/li/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>212c1924-098e-48fe-9c56-94975147f723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-secondary inline-block rounded-t-lg border-b-2 border-secondary-navy p-4 text-sm font-medium text-secondary-navy transition-all duration-300 ease-in-out</value>
+      <webElementGuid>31ceb5b9-4ea2-4b5d-91bb-ee07a105854a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Offline</value>
+      <webElementGuid>df8c2bfd-3b45-467d-989a-156e6beb0322</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[@class=&quot;fixed left-0 right-0 z-20 w-full bg-white bg-opacity-90 px-6 py-2 shadow-3 backdrop-blur-sm&quot;]/div[@class=&quot;md:pl-52&quot;]/div[@class=&quot;mb-2 flex items-center border-b border-gray-200&quot;]/div[@class=&quot;min-w-0 flex-1&quot;]/ul[@class=&quot;-mb-px flex flex-wrap text-center&quot;]/li[1]/a[@class=&quot;active&quot;]/div[@class=&quot;text-secondary inline-block rounded-t-lg border-b-2 border-secondary-navy p-4 text-sm font-medium text-secondary-navy transition-all duration-300 ease-in-out&quot;]</value>
+      <webElementGuid>127ed4f9-8889-4043-bae9-0d548e544a55</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/div/ul/li/a/div</value>
+      <webElementGuid>03aace93-c71f-4491-b6b6-23955183cfa4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Booking'])[1]/following::div[4]</value>
+      <webElementGuid>6eac2b75-74d7-4204-9afc-abf327901587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[1]/preceding::div[1]</value>
+      <webElementGuid>83f57f13-1253-40b8-b519-0a63c137ea84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/ul/li/a/div</value>
+      <webElementGuid>5096d2bd-7d67-428a-aae6-b4f6f81097fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Offline' or . = 'Offline')]</value>
+      <webElementGuid>87d28aa1-fa3f-4c55-85dd-efd92fdfb918</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

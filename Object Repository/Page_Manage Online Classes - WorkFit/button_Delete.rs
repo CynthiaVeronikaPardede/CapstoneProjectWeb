@@ -22,10 +22,50 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>9a79a8b8-191d-4194-a198-e7378049cb7e</webElementGuid>
+      <webElementGuid>72d982c6-e737-40c7-a046-527267625f96</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c9141b4f-7c04-4c67-8254-9a4264fd4148</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-b-xl hover:rounded-b-xl mr-2 inline-flex w-full items-center px-5 py-2.5 text-center text-sm font-normal text-neutral-100-2 transition duration-300 ease-in-out hover:bg-red-50 focus:outline-none</value>
+      <webElementGuid>deb791b1-9cf1-400b-a599-356706cc21f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete</value>
+      <webElementGuid>176b9cfd-046c-4298-bf48-3b208336d263</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[2]/div[1]/div[@class=&quot;mb-6 grid grid-cols-1 gap-3 pt-36 md:grid-cols-2 md:gap-6 xl:grid-cols-3 2xl:grid-cols-4&quot;]/div[1]/div[@class=&quot;h-full rounded-20 bg-white shadow-4&quot;]/div[@class=&quot;relative overflow-hidden pb-48&quot;]/div[@class=&quot;group relative&quot;]/div[1]/div[@class=&quot;absolute top-0 right-0 z-10 mr-5 mt-8 w-32 rounded-xl bg-white shadow-4 transition duration-300&quot;]/ul[@class=&quot;list-reset&quot;]/li[2]/button[@class=&quot;rounded-b-xl hover:rounded-b-xl mr-2 inline-flex w-full items-center px-5 py-2.5 text-center text-sm font-normal text-neutral-100-2 transition duration-300 ease-in-out hover:bg-red-50 focus:outline-none&quot;]</value>
+      <webElementGuid>43b81629-dba1-40f6-abe7-00ce1fa2281f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9a79a8b8-191d-4194-a198-e7378049cb7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>c98c76cd-397c-40d2-b67f-89e19714a950</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -102,7 +142,71 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[7]</value>
-      <webElementGuid>ab7109a3-707f-4c2c-9fd0-4cd87bbb2b3d</webElementGuid>
+      <webElementGuid>25aa0ae3-1cef-481c-88ef-09b0e0836670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/div/div/div/div[2]/div/div[2]/ul/li[2]/button</value>
+      <webElementGuid>f13880ca-f524-42a0-9b7c-b6d10740f070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::button[1]</value>
+      <webElementGuid>cc67fb0b-dfb0-48e0-a9d5-c062f4b0a230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sit Up'])[1]/following::button[4]</value>
+      <webElementGuid>5f9b3077-4e7c-4a68-a110-a0578fc2b926</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plank Plank'])[1]/preceding::button[1]</value>
+      <webElementGuid>90e164ef-f974-4e11-bdd1-ce311358134b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plank Plank'])[2]/preceding::button[1]</value>
+      <webElementGuid>64980970-5890-467b-89ff-34820ef25ba1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
+      <webElementGuid>7c8ae9d8-f8d3-4931-bf9f-d086b47593d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/ul/li[2]/button</value>
+      <webElementGuid>f25a6db8-0a4c-4d30-85e7-8b11ee5b264c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Delete' or . = 'Delete')]</value>
+      <webElementGuid>e6535602-64ce-488b-b0d3-fe6541fe4a81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,14 +215,6 @@
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/div[3]/div/div/div[2]/div/div[2]/ul/li[2]/button</value>
       <webElementGuid>fb9d22c2-96e7-4547-94b7-2ec881aa55a7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/following::button[1]</value>
-      <webElementGuid>a2e8ad91-c080-40b1-bd7d-cf346bc36941</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,29 +231,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Rp 123'])[1]/preceding::button[1]</value>
       <webElementGuid>0e075b96-b1f5-4939-b641-e5564a96aed9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Delete']/parent::*</value>
-      <webElementGuid>1c5fb863-4ee1-4589-8b68-1e1f373b6507</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/ul/li[2]/button</value>
-      <webElementGuid>4b6fc905-2de7-4de9-9473-ec525bd9902c</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Delete' or . = 'Delete')]</value>
-      <webElementGuid>d4ac9758-6875-45f5-9d38-e36dcc9d9b78</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

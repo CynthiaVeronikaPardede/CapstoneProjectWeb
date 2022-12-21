@@ -19,8 +19,6 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://fe-react-o3tcnp4lu-capstone-6.vercel.app/')
 
 WebUI.click(findTestObject('Object Repository/Page_WorkFit/a_Login'))
@@ -29,15 +27,13 @@ WebUI.setText(findTestObject('Object Repository/Page_Login Page - WorkFit/input_
 
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login Page - WorkFit/input_Password_password'), 'PzcU1FTwvrz2Y2eY7/dWBg==')
 
-WebUI.click(findTestObject('Object Repository/Page_Login Page - WorkFit/form_EmailPasswordSign In'))
-
 WebUI.click(findTestObject('Object Repository/Page_Login Page - WorkFit/button_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/span_Classes'))
+WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/div_Classes'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/img_Yoga_absolute inset-0 h-full w-full rou_26285e'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_ZumbaRp 149.000Wednesday (1300 - 1500)Suripto'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/img_Senin_absolute inset-0 h-full w-full ro_261936'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_Pull UpRp 1.234Wednesday (1300 - 1500)Add'))
 
 WebUI.closeBrowser()
 

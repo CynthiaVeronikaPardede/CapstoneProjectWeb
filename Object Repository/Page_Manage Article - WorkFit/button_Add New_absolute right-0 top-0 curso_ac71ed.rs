@@ -22,6 +22,30 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
+      <webElementGuid>c0d2673b-3ef8-45d6-a77d-dac5d569f743</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>absolute right-0 top-0 cursor-pointer rounded-bl-20 bg-neutral-80 bg-opacity-50 px-4 py-2 text-blue-100 shadow-4</value>
+      <webElementGuid>94c779fe-0c8d-4eb9-a379-3015b8837401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[2]/div[1]/div[@class=&quot;mb-6 grid grid-cols-1 gap-3 pt-20 md:grid-cols-2 md:gap-6 xl:grid-cols-3 2xl:grid-cols-4&quot;]/div[@class=&quot;h-full rounded-20 bg-white shadow-4&quot;]/div[@class=&quot;relative overflow-hidden rounded-t-20 pb-40&quot;]/div[@class=&quot;group relative&quot;]/button[@class=&quot;absolute right-0 top-0 cursor-pointer rounded-bl-20 bg-neutral-80 bg-opacity-50 px-4 py-2 text-blue-100 shadow-4&quot;]</value>
+      <webElementGuid>9b8cd4c1-1da5-4baa-bf5d-7b9e2de144d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
       <webElementGuid>29b42118-708d-4aed-8011-a14b9864ee76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +57,7 @@
       <webElementGuid>f110db38-1112-46bf-961a-189bce12bbc4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
@@ -46,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/div/div/div/button</value>
-      <webElementGuid>d0df3167-e121-48b7-8f55-04c317030bc8</webElementGuid>
+      <webElementGuid>21fda773-4988-469e-bb85-6fb8125e5881</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New'])[1]/following::button[1]</value>
-      <webElementGuid>b2703d45-7775-4c9f-901a-548058263573</webElementGuid>
+      <webElementGuid>eca2cb19-66a2-4908-9e75-bbb14665b993</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +86,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Article'])[1]/following::button[3]</value>
-      <webElementGuid>6fb333d6-fc31-4fea-b084-1d8f33b47d03</webElementGuid>
+      <webElementGuid>e36a420e-1633-4cdd-85b5-9e65bcc6f609</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coba edit'])[2]/preceding::button[1]</value>
+      <webElementGuid>6859eb97-3bf1-4bf6-9421-c2a75bc53bd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div/div/div/button</value>
+      <webElementGuid>a954aa06-7e43-40ec-aa84-9061d5cdecd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,13 +111,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Zumba'])[2]/preceding::button[1]</value>
       <webElementGuid>2bff90db-0754-4494-9c31-68a2cd10898a</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div/div/div[2]/div/div/div/div/div/button</value>
-      <webElementGuid>1a85ed71-b9e9-4b40-917c-fd03238dacab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_21 Des 2022 (11.45) - 21 Mar 2023 (11.4_7a5d5f</name>
+   <tag></tag>
+   <elementGuidId>229af5db-22f0-4022-8eca-9691a951fc23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.relative.h-full.rounded-20.border.bg-white.py-4.shadow-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aee4053e-4e13-45dc-9ae6-357d06e20ab6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative h-full rounded-20 border bg-white py-4 shadow-4</value>
+      <webElementGuid>ba8f9496-60c1-48bd-9a77-c578edd21c0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>21 Des 2022 (11.45) - 21 Mar 2023 (11.45)ZumbaActiveSuriptoRp 149.000Eko Mamatqe1@gmail.comWednesday (13:00 - 15:00); </value>
+      <webElementGuid>72aae95a-fcec-4252-a829-87b9909d8b4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[2]/div[@class=&quot;mb-6 grid grid-cols-1 gap-3 pt-36 md:grid-cols-2 md:gap-6 xl:grid-cols-2 2xl:grid-cols-3&quot;]/div[1]/div[@class=&quot;relative h-full rounded-20 border bg-white py-4 shadow-4&quot;]</value>
+      <webElementGuid>f7fe5ab1-2dc9-4f53-b3ac-3cf8ee7d4dfa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>72621d1c-64ff-464c-bc4a-e5436e5c5ef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative h-full rounded-20 border bg-white py-4 shadow-4</value>
+      <webElementGuid>2a0a1657-67f8-41e9-a34f-c9e579723b80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>21 Des 2022 (11.45) - 21 Mar 2023 (11.45)ZumbaActiveSuriptoRp 149.000Eko Mamatqe1@gmail.comWednesday (13:00 - 15:00); </value>
+      <webElementGuid>1108a3b7-894b-4ee7-9203-4f6697c446fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[2]/div[@class=&quot;mb-6 grid grid-cols-1 gap-3 pt-36 md:grid-cols-2 md:gap-6 xl:grid-cols-2 2xl:grid-cols-3&quot;]/div[1]/div[@class=&quot;relative h-full rounded-20 border bg-white py-4 shadow-4&quot;]</value>
+      <webElementGuid>8504eea4-9f2f-4bf2-bc67-dfb3237f7368</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>398bf139-f7fd-4553-bc66-95ccce4d1dd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yoga'])[1]/following::div[4]</value>
+      <webElementGuid>2c3210b3-9297-48e4-9141-c4221bc51e23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zumba'])[1]/following::div[4]</value>
+      <webElementGuid>feb7e86f-b14a-45ad-8a46-249bd5f09fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>112bb41a-cdc7-4810-96d3-6abe457cf785</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '21 Des 2022 (11.45) - 21 Mar 2023 (11.45)ZumbaActiveSuriptoRp 149.000Eko Mamatqe1@gmail.comWednesday (13:00 - 15:00); ' or . = '21 Des 2022 (11.45) - 21 Mar 2023 (11.45)ZumbaActiveSuriptoRp 149.000Eko Mamatqe1@gmail.comWednesday (13:00 - 15:00); ')]</value>
+      <webElementGuid>e7775082-785d-4cc6-9972-3c06342d00d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

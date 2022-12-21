@@ -22,6 +22,686 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
+      <webElementGuid>c3afc44b-28b4-44da-9a23-3e7709b0df7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700</value>
+      <webElementGuid>0b0b3824-077b-40ba-b591-36279a7ed24c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>7be8bf81-369f-419b-872c-bdda0ae2e4c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>e914eb35-2a1f-4bc6-ad92-a5d5dfee392f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-default&quot;)/ul[@class=&quot;mt-4 flex flex-col rounded-lg bg-white p-4 font-medium lg:mt-0 lg:flex-row lg:space-x-8 lg:border-0 lg:bg-white lg:text-sm lg:font-medium&quot;]/li[6]/a[@class=&quot;block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700&quot;]</value>
+      <webElementGuid>1e2105f7-dbdb-4b4a-a176-b79537939da1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ac8d92ca-37a0-4992-88b0-a70aaf106aa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700</value>
+      <webElementGuid>5ed898bd-ef32-4a04-9649-7cec419d3808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>2d7583a7-4547-4f99-a15b-dab345da4a62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>093fb9ab-3c2c-4349-9ee2-155dddb95daa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-default&quot;)/ul[@class=&quot;mt-4 flex flex-col rounded-lg bg-white p-4 font-medium lg:mt-0 lg:flex-row lg:space-x-8 lg:border-0 lg:bg-white lg:text-sm lg:font-medium&quot;]/li[6]/a[@class=&quot;block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700&quot;]</value>
+      <webElementGuid>ebaa38d2-b775-4414-8915-fd279c1997a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>59e724f3-8116-47da-bb03-799fea48935d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700</value>
+      <webElementGuid>30a8ff22-ffb3-4761-ad45-b063871eaa56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>517839c8-7a54-4e0b-9369-cf714005f3f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>1fe7c738-617a-452a-a471-507527664f6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-default&quot;)/ul[@class=&quot;mt-4 flex flex-col rounded-lg bg-white p-4 font-medium lg:mt-0 lg:flex-row lg:space-x-8 lg:border-0 lg:bg-white lg:text-sm lg:font-medium&quot;]/li[6]/a[@class=&quot;block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700&quot;]</value>
+      <webElementGuid>bd4f05d3-9c32-466f-8e6d-c8749225aba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>29b61809-c29a-44b5-b89f-ddcaeb4c48bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700</value>
+      <webElementGuid>7403749c-ff3d-49c7-8745-ac71a5dfed74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>49374b5a-5ce6-4849-88db-9228c1401524</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>a24c72a9-ba37-4b66-89a6-6a49abd16016</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-default&quot;)/ul[@class=&quot;mt-4 flex flex-col rounded-lg bg-white p-4 font-medium lg:mt-0 lg:flex-row lg:space-x-8 lg:border-0 lg:bg-white lg:text-sm lg:font-medium&quot;]/li[6]/a[@class=&quot;block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700&quot;]</value>
+      <webElementGuid>68cf9591-5a55-4a8e-981b-21f6dfaa1b0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d1949e7c-4965-43fb-96f9-d491c1ba068b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700</value>
+      <webElementGuid>c8016799-a1ac-4fca-85a7-a0f9aaf82b71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>8af3a0cd-050c-4e5c-9501-596b2cb7e0a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>630950d0-795f-4a1a-b556-cef026b38ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-default&quot;)/ul[@class=&quot;mt-4 flex flex-col rounded-lg bg-white p-4 font-medium lg:mt-0 lg:flex-row lg:space-x-8 lg:border-0 lg:bg-white lg:text-sm lg:font-medium&quot;]/li[6]/a[@class=&quot;block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700&quot;]</value>
+      <webElementGuid>262985f8-51e5-42bb-9b25-4f4094c078c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>761d31eb-7759-4c45-9452-6f83d3b2bc59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700</value>
+      <webElementGuid>5fddba98-02ad-4993-b34b-11e1a209991c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>c947cff3-5289-4380-9311-a5e4de2e6cda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>9b19c6a5-ee31-4b1e-a06f-1986926801f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-default&quot;)/ul[@class=&quot;mt-4 flex flex-col rounded-lg bg-white p-4 font-medium lg:mt-0 lg:flex-row lg:space-x-8 lg:border-0 lg:bg-white lg:text-sm lg:font-medium&quot;]/li[6]/a[@class=&quot;block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700&quot;]</value>
+      <webElementGuid>41833055-8622-4c77-bdd9-13a7ee5e7ea8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d3488cc2-e0a1-44db-af64-b0501115f7c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700</value>
+      <webElementGuid>ac7fff4f-229b-40b1-ba59-35e8638e1203</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>6c512e9b-0183-4068-98f7-6696e42f2be2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>9e4dbdf7-04fb-4dc9-93f7-bed705bf1e32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-default&quot;)/ul[@class=&quot;mt-4 flex flex-col rounded-lg bg-white p-4 font-medium lg:mt-0 lg:flex-row lg:space-x-8 lg:border-0 lg:bg-white lg:text-sm lg:font-medium&quot;]/li[6]/a[@class=&quot;block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700&quot;]</value>
+      <webElementGuid>e12246f2-3b8b-4a6d-9312-3df357c0509b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>47adda24-321d-469f-aa2e-be20c0db7397</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700</value>
+      <webElementGuid>704bd127-7a0d-41f3-b3e8-fd83eb7b945f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>a6028163-f089-4932-9c48-7515224a7d65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>7cf73440-9b51-49c7-9af7-80b96e9dcb82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-default&quot;)/ul[@class=&quot;mt-4 flex flex-col rounded-lg bg-white p-4 font-medium lg:mt-0 lg:flex-row lg:space-x-8 lg:border-0 lg:bg-white lg:text-sm lg:font-medium&quot;]/li[6]/a[@class=&quot;block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700&quot;]</value>
+      <webElementGuid>74b64e65-bcde-4126-80d4-824af1e2b31a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4b4dc8ac-7538-48fd-ac7d-70d186d7558f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700</value>
+      <webElementGuid>85663d38-e5e4-4d69-b366-611936925d24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>2cf7a9ed-81f2-47e5-a0ce-c32983c52212</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>09d71449-6fa9-4bf6-a1ad-0b6032fcf278</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-default&quot;)/ul[@class=&quot;mt-4 flex flex-col rounded-lg bg-white p-4 font-medium lg:mt-0 lg:flex-row lg:space-x-8 lg:border-0 lg:bg-white lg:text-sm lg:font-medium&quot;]/li[6]/a[@class=&quot;block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700&quot;]</value>
+      <webElementGuid>4c23abcd-eab2-4980-93ff-8b78316520a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a4f60f14-6631-4e01-8303-a2e54a571a48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700</value>
+      <webElementGuid>6a28e5ce-8f01-4dc4-a780-06f0d237d05f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>0bf114de-660a-42d8-a3ee-993c40fc0c1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>4183de0a-4757-4fb3-9348-98678890cf7c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-default&quot;)/ul[@class=&quot;mt-4 flex flex-col rounded-lg bg-white p-4 font-medium lg:mt-0 lg:flex-row lg:space-x-8 lg:border-0 lg:bg-white lg:text-sm lg:font-medium&quot;]/li[6]/a[@class=&quot;block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700&quot;]</value>
+      <webElementGuid>fd1a3499-9435-4d92-9e76-28766cb4a064</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c4b7c463-91d5-4177-bc33-12dcf7907ebc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700</value>
+      <webElementGuid>1dbe2b68-fef3-4959-8b90-2da3272b79bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>36ea6a45-b0a2-47de-afe1-e9706cca160a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>d803f7f3-7625-497c-803f-2b4d461327a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-default&quot;)/ul[@class=&quot;mt-4 flex flex-col rounded-lg bg-white p-4 font-medium lg:mt-0 lg:flex-row lg:space-x-8 lg:border-0 lg:bg-white lg:text-sm lg:font-medium&quot;]/li[6]/a[@class=&quot;block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700&quot;]</value>
+      <webElementGuid>f11eb08c-cdbe-4bcf-9a9a-5a9d8993e098</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>b9f5674c-10a4-4f60-87d1-b10bb9fb261d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700</value>
+      <webElementGuid>5baa6d0c-e19e-4542-95df-3dc0bcf23b9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>c7db49a3-0777-4a4f-8f7b-d821e148127f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>3cc35759-0a5c-435d-a787-3a73251b353c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-default&quot;)/ul[@class=&quot;mt-4 flex flex-col rounded-lg bg-white p-4 font-medium lg:mt-0 lg:flex-row lg:space-x-8 lg:border-0 lg:bg-white lg:text-sm lg:font-medium&quot;]/li[6]/a[@class=&quot;block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700&quot;]</value>
+      <webElementGuid>d0d5781f-44c7-48cb-9087-e24745bd1420</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>724faede-6eb1-4860-87c6-42352a0a00e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700</value>
+      <webElementGuid>f61059f6-f6a4-42f7-8491-79481eecb886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>fc9a2ed5-7390-4e9d-b025-19664e974ce2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>3f7845c1-4b04-4b6e-80f3-4ca87992f529</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-default&quot;)/ul[@class=&quot;mt-4 flex flex-col rounded-lg bg-white p-4 font-medium lg:mt-0 lg:flex-row lg:space-x-8 lg:border-0 lg:bg-white lg:text-sm lg:font-medium&quot;]/li[6]/a[@class=&quot;block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700&quot;]</value>
+      <webElementGuid>9cb737ed-f60e-4dd8-ba84-64f3fb961cda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f0e7208d-b9c4-4c42-91ce-72a4cc74234f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700</value>
+      <webElementGuid>128d669a-c9cf-4c1a-8e56-726108674759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>d36d340e-31fb-454c-8a7d-d935fb9d27a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>8efa1905-7a5b-400b-aa06-6cde9a0d586a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-default&quot;)/ul[@class=&quot;mt-4 flex flex-col rounded-lg bg-white p-4 font-medium lg:mt-0 lg:flex-row lg:space-x-8 lg:border-0 lg:bg-white lg:text-sm lg:font-medium&quot;]/li[6]/a[@class=&quot;block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700&quot;]</value>
+      <webElementGuid>affa2344-b938-4aa5-8996-368886715ca0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2d895e67-5d90-4cf8-a3c1-c0b3f1a8e3c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700</value>
+      <webElementGuid>ef7f8739-bfe3-4a44-b552-daa91a50585c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>719eb7e4-eb06-45b8-b9af-4cf07b1a59db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>c37c18ba-e9b7-4e0b-a26c-c6f65c9a20dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-default&quot;)/ul[@class=&quot;mt-4 flex flex-col rounded-lg bg-white p-4 font-medium lg:mt-0 lg:flex-row lg:space-x-8 lg:border-0 lg:bg-white lg:text-sm lg:font-medium&quot;]/li[6]/a[@class=&quot;block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700&quot;]</value>
+      <webElementGuid>2f76ed85-5483-494d-910a-b0a37d09faf0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>79f040d9-f4e1-461a-abf2-9017d9d51971</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700</value>
+      <webElementGuid>2b73edf5-c259-4c59-ab26-fe3fa5ebf1e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>c80494e8-6d6b-47d2-9683-48106f372035</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>3146fe61-9a4e-4690-938a-4d444f2a16fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-default&quot;)/ul[@class=&quot;mt-4 flex flex-col rounded-lg bg-white p-4 font-medium lg:mt-0 lg:flex-row lg:space-x-8 lg:border-0 lg:bg-white lg:text-sm lg:font-medium&quot;]/li[6]/a[@class=&quot;block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700&quot;]</value>
+      <webElementGuid>90501e3d-d4c6-43aa-9ae0-d7767583251d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ad86d5ea-903a-44b9-a4c6-a9022480c8ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700</value>
+      <webElementGuid>d1e03527-7b88-4adc-960f-06180d12eab2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/login</value>
+      <webElementGuid>5acf52fe-e227-426c-adc5-13b9f77fa886</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Login</value>
+      <webElementGuid>32c43c01-4fa9-462c-bb13-ab66a77921b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-default&quot;)/ul[@class=&quot;mt-4 flex flex-col rounded-lg bg-white p-4 font-medium lg:mt-0 lg:flex-row lg:space-x-8 lg:border-0 lg:bg-white lg:text-sm lg:font-medium&quot;]/li[6]/a[@class=&quot;block rounded text-xl font-bold text-primary-violet lg:border-0 lg:p-0 lg:hover:text-blue-700&quot;]</value>
+      <webElementGuid>86db8a80-00b6-41a6-994d-38d3b8e605b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
       <webElementGuid>1fea204c-923f-4b88-8eee-aad37a177261</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +713,7 @@
       <webElementGuid>db7f2ccd-087a-4974-9ea0-b5491e5752e0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
@@ -41,7 +721,7 @@
       <webElementGuid>fa32e045-972b-4c76-bd72-bfb16fe39c50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -1182,7 +1862,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='navbar-default']/ul/li[6]/a</value>
-      <webElementGuid>3476a56b-4ff4-499a-9d1e-1758e3b9ebb2</webElementGuid>
+      <webElementGuid>e14c9dd3-494a-455a-b8f0-e45fef21fbc4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1190,7 +1870,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Login')]</value>
-      <webElementGuid>8439c506-df0a-47ce-bf50-749a8e6310d3</webElementGuid>
+      <webElementGuid>fb1362f0-e781-4347-8abb-a8be63ef9dfa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1198,7 +1878,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Testimoni'])[1]/following::a[1]</value>
-      <webElementGuid>d202ffff-5e23-43c7-8c16-a2c348003899</webElementGuid>
+      <webElementGuid>51bb5b18-e677-4ba6-90ac-1b9d921dcab3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1206,7 +1886,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Class'])[1]/following::a[2]</value>
-      <webElementGuid>6d948e7d-1a78-4ba7-a48b-55954c946dc0</webElementGuid>
+      <webElementGuid>a831b7f1-2200-4c4c-af8b-9c8ed93bad1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1214,7 +1894,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='LET’S START A NEW LIFE TODAY'])[1]/preceding::a[1]</value>
-      <webElementGuid>182d32af-8125-4f0d-942f-12db1823c5a6</webElementGuid>
+      <webElementGuid>2cf7020b-211c-44f8-82ef-a97278dde404</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1222,7 +1902,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Login']/parent::*</value>
-      <webElementGuid>b3326f72-10d9-453e-bd1b-3648bce25df9</webElementGuid>
+      <webElementGuid>76d20bc4-8ee9-4edc-8234-92b016db2ddb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1230,7 +1910,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/login')]</value>
-      <webElementGuid>1a0812ed-2130-49f3-8925-738815619c48</webElementGuid>
+      <webElementGuid>ff89b39b-8999-4150-b85e-4f7118aa2368</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1238,7 +1918,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/a</value>
-      <webElementGuid>46c48444-be13-42e2-87b9-1d7e56e55b6c</webElementGuid>
+      <webElementGuid>02ca8156-13cd-4289-9c26-d4068f89071e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -1246,6 +1926,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/login' and (text() = 'Login' or . = 'Login')]</value>
-      <webElementGuid>4ce1c3e1-e71e-4403-a368-59c389dc3e27</webElementGuid>
+      <webElementGuid>03ab17d8-211e-4ba4-b558-1f61ac2b75b5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

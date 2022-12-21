@@ -22,10 +22,50 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c6056783-b25d-4f4d-ad37-7f1bfc2148b9</webElementGuid>
+      <webElementGuid>60911474-2589-46ec-865f-ecd09af90e5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>1e85c6ed-bb98-4da3-8cdf-6c051f9c3497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>block w-full rounded-lg border border-primary-violet bg-white p-2 pr-8 text-sm text-neutral-100-2 placeholder-neutral-80 placeholder:text-neutral-60 focus:border-blue-500 focus:ring-blue-500</value>
+      <webElementGuid>6adda6fa-e297-44bd-afa1-d9b52b6fab88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search by membership name</value>
+      <webElementGuid>20aee116-122a-47b7-99e6-765b5be89285</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[@class=&quot;fixed left-0 right-0 z-20 w-full bg-white bg-opacity-90 px-6 py-2 shadow-3 backdrop-blur-sm&quot;]/div[@class=&quot;md:pl-52&quot;]/div[@class=&quot;mb-2 flex items-center border-b border-gray-200&quot;]/div[@class=&quot;inline-flex items-center text-sm font-medium text-neutral-100-2&quot;]/div[@class=&quot;relative mt-1 mb-1 hidden w-full md:block md:w-48 lg:w-80&quot;]/input[@class=&quot;block w-full rounded-lg border border-primary-violet bg-white p-2 pr-8 text-sm text-neutral-100-2 placeholder-neutral-80 placeholder:text-neutral-60 focus:border-blue-500 focus:ring-blue-500&quot;]</value>
+      <webElementGuid>9f8d1bc7-716f-4989-8eda-40953e32ae56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>c6056783-b25d-4f4d-ad37-7f1bfc2148b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>632942cf-491e-48be-a6f6-a0a9b2714b9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
@@ -142,7 +182,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@value='']</value>
-      <webElementGuid>417773a2-7e21-4604-a34b-dbdebe695940</webElementGuid>
+      <webElementGuid>2d95beb3-d227-426a-844e-d4e61960e505</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +190,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/div[2]/div/input</value>
-      <webElementGuid>59e3286e-f946-4cb4-b647-20e147f90fc0</webElementGuid>
+      <webElementGuid>3b4bdd94-5b99-473c-a39f-af66614df20e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +198,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>4c244bad-7c6f-47b9-9d35-dfe05d42c29e</webElementGuid>
+      <webElementGuid>aece1082-b1c2-4952-a9d4-8b1d138eef93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,6 +206,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Search by membership name']</value>
-      <webElementGuid>ab2ca68c-b794-4f5b-b754-70a6a42a564e</webElementGuid>
+      <webElementGuid>c5b9c5e6-b242-494c-ac3b-624deb717c1d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

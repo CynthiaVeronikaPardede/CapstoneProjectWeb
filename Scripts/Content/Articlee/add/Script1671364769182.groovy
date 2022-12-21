@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://fe-react-o3tcnp4lu-capstone-6.vercel.app/')
+
+WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/Page_WorkFit/a_Login'))
 
@@ -33,7 +33,13 @@ WebUI.click(findTestObject('Object Repository/Page_Login Page - WorkFit/button_S
 
 WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/span_Article'))
 
+WebUI.click(findTestObject('Object Repository/Page_Manage Article - WorkFit/div_Article'))
+
 WebUI.click(findTestObject('Object Repository/Page_Manage Article - WorkFit/span_Add New'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Article - WorkFit/input_Add New Article_title'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Article - WorkFit/button_Cancel'))
 
 WebUI.closeBrowser()
 

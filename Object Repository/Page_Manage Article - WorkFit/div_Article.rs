@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Article</name>
+   <tag></tag>
+   <elementGuidId>79158b11-e7df-4b7b-b4e5-27009a8e0284</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/aside/div/div/ul/li[7]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8d05f01e-2308-40ce-8916-a9b69556f0ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-1 flex items-center rounded-lg bg-primary-violet bg-opacity-10 p-2 text-sm font-normal text-primary-violet transition-all duration-300 ease-in-out hover:bg-indigo-200</value>
+      <webElementGuid>dba149a4-0713-493e-9ffc-f1f17896cd5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Article</value>
+      <webElementGuid>417da694-48a3-4d1a-9baf-afeb1966f1a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/aside[@class=&quot;fixed top-0 bottom-0 left-0 z-30 mt-14 hidden w-52 leading-none transition-all duration-300 sm:hidden md:block&quot;]/div[@class=&quot;relative z-40 hidden h-full flex-col justify-between overflow-y-auto bg-white py-2 px-3 sm:flex md:h-full&quot;]/div[@class=&quot;relative&quot;]/ul[1]/li[7]/a[@class=&quot;active&quot;]/div[@class=&quot;mb-1 flex items-center rounded-lg bg-primary-violet bg-opacity-10 p-2 text-sm font-normal text-primary-violet transition-all duration-300 ease-in-out hover:bg-indigo-200&quot;]</value>
+      <webElementGuid>2e26359c-ad3f-4c18-949d-46cd62066e1c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/aside/div/div/ul/li[7]/a/div</value>
+      <webElementGuid>8c6d2f82-9aa6-4833-ad98-9fab72cb566b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Content'])[1]/following::div[1]</value>
+      <webElementGuid>20366739-5d96-4caa-a3fd-15f20a6a314b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Booking'])[1]/following::div[2]</value>
+      <webElementGuid>562b3f36-987c-491c-a3ae-0b1ac10567ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Video'])[1]/preceding::div[1]</value>
+      <webElementGuid>2d93e2fa-6d72-443e-9772-e6f18198c0b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[7]/a/div</value>
+      <webElementGuid>5a69ffc3-9c29-4b42-a2f7-2feebe421a7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Article' or . = 'Article')]</value>
+      <webElementGuid>9df42dda-ab56-45ae-b889-1578020dbac4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

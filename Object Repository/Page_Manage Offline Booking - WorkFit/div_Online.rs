@@ -22,6 +22,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>20c5a099-e7ed-4c69-a7b4-8444c1382fe5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-block rounded-t-lg border-b-2 border-transparent p-4 text-sm font-normal text-neutral-60 transition-all duration-300 ease-in-out hover:border-gray-300 hover:text-neutral-80</value>
+      <webElementGuid>ac6edd5b-43c3-4149-ade9-6f0f8efead34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Online</value>
+      <webElementGuid>74567a70-4552-4149-aa94-2a84b46583c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[@class=&quot;fixed left-0 right-0 z-20 w-full bg-white bg-opacity-90 px-6 py-2 shadow-3 backdrop-blur-sm&quot;]/div[@class=&quot;md:pl-52&quot;]/div[@class=&quot;mb-2 flex items-center border-b border-gray-200&quot;]/div[@class=&quot;min-w-0 flex-1&quot;]/ul[@class=&quot;-mb-px flex flex-wrap text-center&quot;]/li[2]/a[1]/div[@class=&quot;inline-block rounded-t-lg border-b-2 border-transparent p-4 text-sm font-normal text-neutral-60 transition-all duration-300 ease-in-out hover:border-gray-300 hover:text-neutral-80&quot;]</value>
+      <webElementGuid>da254736-fcd2-409e-a990-52ae9929c7f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>14376f1d-ca41-4f6b-b1e9-ccfd9bb743c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-block rounded-t-lg border-b-2 border-transparent p-4 text-sm font-normal text-neutral-60 transition-all duration-300 ease-in-out hover:border-gray-300 hover:text-neutral-80</value>
+      <webElementGuid>e3b60c6c-6009-4aac-883b-53f6846eb2bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Online</value>
+      <webElementGuid>b478f6c6-20c9-4927-a738-31cbe199387b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[@class=&quot;fixed left-0 right-0 z-20 w-full bg-white bg-opacity-90 px-6 py-2 shadow-3 backdrop-blur-sm&quot;]/div[@class=&quot;md:pl-52&quot;]/div[@class=&quot;mb-2 flex items-center border-b border-gray-200&quot;]/div[@class=&quot;min-w-0 flex-1&quot;]/ul[@class=&quot;-mb-px flex flex-wrap text-center&quot;]/li[2]/a[1]/div[@class=&quot;inline-block rounded-t-lg border-b-2 border-transparent p-4 text-sm font-normal text-neutral-60 transition-all duration-300 ease-in-out hover:border-gray-300 hover:text-neutral-80&quot;]</value>
+      <webElementGuid>f4f72909-7171-44d3-90e0-e0941b37c5ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
       <webElementGuid>2628e4c6-5ae8-43be-b86f-63b566a20786</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +97,7 @@
       <webElementGuid>ce4213a2-e641-444f-b6a3-5499c81d6c16</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -150,7 +214,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/div/ul/li[2]/a/div</value>
-      <webElementGuid>4341ae03-644b-4626-95ea-b651f711b93b</webElementGuid>
+      <webElementGuid>707fc10a-c431-4a26-93b2-6287936eeb66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,7 +222,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Offline'])[1]/following::div[1]</value>
-      <webElementGuid>dcd6df68-d95f-4491-91d8-6bf4af63c4cc</webElementGuid>
+      <webElementGuid>3d92f03c-4151-4715-be10-7faab24d8026</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -166,7 +230,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Booking'])[1]/following::div[5]</value>
-      <webElementGuid>4ce8deff-2211-4e57-9d22-96090cf0420b</webElementGuid>
+      <webElementGuid>da52a657-b5fc-43e7-ab09-a358c54bfaa0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +238,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New'])[1]/preceding::div[4]</value>
-      <webElementGuid>ae1a070a-cc43-4c11-99c2-860ceef6f48d</webElementGuid>
+      <webElementGuid>087b084c-4c74-49f0-8656-5ae8775766f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,7 +246,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div[2]/div/div/ul/li[2]/a/div</value>
-      <webElementGuid>a78c2601-fc6a-41b0-aad7-f30a489a0add</webElementGuid>
+      <webElementGuid>5a490674-8534-436f-bd76-02f7ad2f0c74</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,6 +254,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Online' or . = 'Online')]</value>
-      <webElementGuid>d24f3dce-ca3d-4f92-be69-3e07b1019c56</webElementGuid>
+      <webElementGuid>294dadc7-1ab2-4d12-b73d-799bc646aa7b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

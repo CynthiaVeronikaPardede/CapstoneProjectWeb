@@ -22,10 +22,58 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4c2dafbf-deb8-4c21-979c-7e17ebd5350f</webElementGuid>
+      <webElementGuid>77ae38c0-7fc4-47c9-b9ee-f97be4571d75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Online</value>
+      <webElementGuid>7764b1cf-2015-4677-81b1-b97895e26bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[@class=&quot;fixed left-0 right-0 z-20 w-full bg-white bg-opacity-90 px-6 py-2 shadow-3 backdrop-blur-sm&quot;]/div[@class=&quot;md:pl-52&quot;]/div[@class=&quot;mb-2 flex items-center border-b border-gray-200&quot;]/div[@class=&quot;min-w-0 flex-1&quot;]/ul[@class=&quot;-mb-px flex flex-wrap text-center&quot;]/li[2]/a[1]/div[@class=&quot;inline-block rounded-t-lg border-b-2 border-transparent p-4 text-sm font-normal text-neutral-60 transition-all duration-300 ease-in-out hover:border-gray-300 hover:text-neutral-80&quot;]/span[1]</value>
+      <webElementGuid>ad5894b2-a0c2-4bd6-a17f-190d7a9fc817</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7f632048-5732-4a75-8900-85b11ba2923e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Online</value>
+      <webElementGuid>6f0a2395-7cc1-4c3d-9bd3-4a2b689685f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[@class=&quot;fixed left-0 right-0 z-20 w-full bg-white bg-opacity-90 px-6 py-2 shadow-3 backdrop-blur-sm&quot;]/div[@class=&quot;md:pl-52&quot;]/div[@class=&quot;mb-2 flex items-center border-b border-gray-200&quot;]/div[@class=&quot;min-w-0 flex-1&quot;]/ul[@class=&quot;-mb-px flex flex-wrap text-center&quot;]/li[2]/a[1]/div[@class=&quot;inline-block rounded-t-lg border-b-2 border-transparent p-4 text-sm font-normal text-neutral-60 transition-all duration-300 ease-in-out hover:border-gray-300 hover:text-neutral-80&quot;]/span[1]</value>
+      <webElementGuid>0a913865-d720-48cd-81ac-6923ae3dfc6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4c2dafbf-deb8-4c21-979c-7e17ebd5350f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -166,7 +214,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div/div/div/div[2]/div/div/ul/li[2]/a/div/span</value>
-      <webElementGuid>29d24502-049a-43de-b8e5-54861d25d731</webElementGuid>
+      <webElementGuid>bc0ebb59-808f-4220-b141-b4df8a7cba4d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +222,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Offline'])[1]/following::span[1]</value>
-      <webElementGuid>e345d4aa-aff9-403c-9247-2c52ddd2ae9e</webElementGuid>
+      <webElementGuid>2e744668-cc3c-4e10-99b0-eb11f46f3a10</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,7 +230,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Classes'])[3]/following::span[2]</value>
-      <webElementGuid>6a9e08a6-e496-4ff2-be87-df407d5cc422</webElementGuid>
+      <webElementGuid>8b81a54f-ee32-471f-b7d2-5d2341fb967a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,7 +238,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New'])[1]/preceding::span[1]</value>
-      <webElementGuid>b6846a49-49c4-4862-8296-c29014c9ce45</webElementGuid>
+      <webElementGuid>66b8da71-1c4c-48da-8e52-72615687b334</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -198,7 +246,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/preceding::span[2]</value>
-      <webElementGuid>89e2a7d4-76be-4288-8f70-9eee8a726296</webElementGuid>
+      <webElementGuid>8b614141-59a6-4735-bebb-0b17f60e6c89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -206,7 +254,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Online']/parent::*</value>
-      <webElementGuid>1135ca9e-554d-4c2c-816a-5fba26189b1e</webElementGuid>
+      <webElementGuid>5239a369-4ae4-4aa8-8689-3edd294f74c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -214,7 +262,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div[2]/div/div/ul/li[2]/a/div/span</value>
-      <webElementGuid>2671a7b1-f948-4b5c-b6b6-8a676c968a66</webElementGuid>
+      <webElementGuid>f79e3099-32aa-4df9-b576-460c4dd27719</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -222,6 +270,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Online' or . = 'Online')]</value>
-      <webElementGuid>379f3698-b4fa-44d5-9a28-618686087184</webElementGuid>
+      <webElementGuid>0fa305cf-6f57-4e0c-ab3f-d02f5a513f88</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

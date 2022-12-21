@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_YogaRp 200.000Sunday (0900 - 1100)Wedne_778311</name>
+   <tag></tag>
+   <elementGuidId>04d06650-f4b8-48fa-b746-79a91bef19ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/div[2]/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>93ccd4e7-bb92-4297-9277-227facf245c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-5</value>
+      <webElementGuid>f9caf479-d864-4e43-927f-d9f531ac8583</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>YogaRp 200.000Sunday (09:00 - 11:00)Wednesday (13:00 - 15:00)Bambang Prambudi</value>
+      <webElementGuid>02bbf617-3160-4ea9-bec1-62dd97fde0ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[2]/div[1]/div[@class=&quot;mb-6 grid grid-cols-1 gap-3 pt-36 sm:grid-cols-2 md:grid-cols-2 md:gap-6 xl:grid-cols-3 2xl:grid-cols-4&quot;]/div[@class=&quot;rounded-20 bg-white shadow-3&quot;]/div[@class=&quot;p-5&quot;]</value>
+      <webElementGuid>f8c9f355-0690-41d1-8208-b9e535bcecc6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/div[2]/div[2]</value>
+      <webElementGuid>c8958c72-04c2-4452-963b-34188ba51db3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wednesday (13:00 - 15:00)'])[1]/following::div[6]</value>
+      <webElementGuid>5a9cf512-cc49-4dcf-b9ba-dc987e9e1068</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sunday (09:00 - 11:00)'])[1]/following::div[6]</value>
+      <webElementGuid>15445e0e-26f4-4cf8-aabe-045b1daf1c89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div[2]</value>
+      <webElementGuid>c5cd2b64-cef5-4e25-9338-dbd0a27f8f4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'YogaRp 200.000Sunday (09:00 - 11:00)Wednesday (13:00 - 15:00)Bambang Prambudi' or . = 'YogaRp 200.000Sunday (09:00 - 11:00)Wednesday (13:00 - 15:00)Bambang Prambudi')]</value>
+      <webElementGuid>b1ebacc6-7a39-4102-97ac-0133c67c7781</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

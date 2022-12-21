@@ -50,11 +50,5 @@ WebUI.setText(findTestObject('Object Repository/Page_Manage Membership - WorkFit
 
 WebUI.click(findTestObject('Object Repository/Page_Manage Membership - WorkFit/button_Save'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Membership - WorkFit/button_OK'))
-
-WebUI.click(findTestObject('Object Repository/Page_Manage Membership - WorkFit/button_Save'))
-
-WebUI.click(findTestObject('Object Repository/Page_Manage Membership - WorkFit/h2_Saved'))
-
 WebUI.closeBrowser()
 

@@ -22,10 +22,90 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>6f271071-d395-40b9-9f39-2b5d481d1230</webElementGuid>
+      <webElementGuid>833d47de-eb9a-407b-a690-badaa23a6a44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6f1b2146-44d8-4908-86a5-6b64e35817d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-t-xl hover:rounded-t-xl mr-2 inline-flex w-full items-center px-5 py-2.5 text-center text-sm font-normal text-neutral-100-2 transition duration-300 ease-in-out hover:bg-yellow-50 focus:outline-none</value>
+      <webElementGuid>6b50142c-1370-4841-a2fb-d162d38bdb49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>b43c11b0-f592-4772-847d-b45c44b455ac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[2]/div[1]/div[@class=&quot;mb-6 grid grid-cols-1 gap-3 pt-36 md:grid-cols-2 md:gap-6 xl:grid-cols-3 2xl:grid-cols-4&quot;]/div[1]/div[@class=&quot;h-full rounded-20 bg-white shadow-4&quot;]/div[@class=&quot;relative overflow-hidden pb-48&quot;]/div[@class=&quot;group relative&quot;]/div[1]/div[@class=&quot;absolute top-0 right-0 z-10 mr-5 mt-8 w-32 rounded-xl bg-white shadow-4 transition duration-300&quot;]/ul[@class=&quot;list-reset&quot;]/li[1]/button[@class=&quot;rounded-t-xl hover:rounded-t-xl mr-2 inline-flex w-full items-center px-5 py-2.5 text-center text-sm font-normal text-neutral-100-2 transition duration-300 ease-in-out hover:bg-yellow-50 focus:outline-none&quot;]</value>
+      <webElementGuid>45270a01-4fb9-46ec-a942-46be168155d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>90379545-b95d-4662-87d2-37f0475b2bbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>51b21b52-6558-46ec-9533-f2b9e39ccebe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>rounded-t-xl hover:rounded-t-xl mr-2 inline-flex w-full items-center px-5 py-2.5 text-center text-sm font-normal text-neutral-100-2 transition duration-300 ease-in-out hover:bg-yellow-50 focus:outline-none</value>
+      <webElementGuid>0925e4e7-8726-472e-8007-d8bc8491a5c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>c3e2d9c6-0bd3-4a9f-93e1-7bd1d3de9cb0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[2]/div[1]/div[@class=&quot;mb-6 grid grid-cols-1 gap-3 pt-36 md:grid-cols-2 md:gap-6 xl:grid-cols-3 2xl:grid-cols-4&quot;]/div[1]/div[@class=&quot;h-full rounded-20 bg-white shadow-4&quot;]/div[@class=&quot;relative overflow-hidden pb-48&quot;]/div[@class=&quot;group relative&quot;]/div[1]/div[@class=&quot;absolute top-0 right-0 z-10 mr-5 mt-8 w-32 rounded-xl bg-white shadow-4 transition duration-300&quot;]/ul[@class=&quot;list-reset&quot;]/li[1]/button[@class=&quot;rounded-t-xl hover:rounded-t-xl mr-2 inline-flex w-full items-center px-5 py-2.5 text-center text-sm font-normal text-neutral-100-2 transition duration-300 ease-in-out hover:bg-yellow-50 focus:outline-none&quot;]</value>
+      <webElementGuid>38e649e3-f0bb-4d33-9018-d14217456821</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6f271071-d395-40b9-9f39-2b5d481d1230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -41,7 +121,7 @@
       <webElementGuid>a6424e4c-3c16-46b1-80a7-e01a9a5b6170</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +142,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[6]</value>
-      <webElementGuid>e263e551-4d66-4251-b15c-7116b7f95df8</webElementGuid>
+      <webElementGuid>797a535d-e309-45f5-b656-19752194f2d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +150,71 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/div/div/div/div[2]/div/div[2]/ul/li/button</value>
-      <webElementGuid>d6c66dd1-5b1c-4bd8-8b92-a74cb206174d</webElementGuid>
+      <webElementGuid>f939a85d-d1ff-4a8a-bab9-d7d777cfb846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sit Up'])[1]/following::button[3]</value>
+      <webElementGuid>906c3ec9-8cc2-4ee0-b949-a70176f2bfce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yoga'])[1]/following::button[4]</value>
+      <webElementGuid>56d85dd9-fc5e-4af0-9a4f-9fc512459b81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::button[1]</value>
+      <webElementGuid>1ed7c0f0-f919-44d9-b2af-005920ee8716</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plank'])[1]/preceding::button[2]</value>
+      <webElementGuid>287fc092-2149-452f-a9bb-da2325532678</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit']/parent::*</value>
+      <webElementGuid>5b67c90d-2454-4e4d-9ea8-82e5f9c4e2f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[2]/div/div[2]/ul/li/button</value>
+      <webElementGuid>958d5e73-c640-445f-b3ea-086a69dc3d2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>af63265e-5e80-42a2-8f5c-4ada4c71dfae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zumba bugar dan sehat'])[1]/preceding::button[2]</value>
+      <webElementGuid>819df8df-0344-4a15-8290-b4f236027451</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,39 +237,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[1]/preceding::button[1]</value>
-      <webElementGuid>a0e5cd0b-ba02-4292-a073-a1adb9b146b4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Coba aja'])[1]/preceding::button[2]</value>
       <webElementGuid>87608769-d59e-455c-95b0-0a724de98112</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Edit']/parent::*</value>
-      <webElementGuid>b4549db9-da26-4272-bc5c-e7c402368e5b</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div/div/div/div/div[2]/div/div[2]/ul/li/button</value>
-      <webElementGuid>758a8efa-9b9f-4261-8a89-5c1a88fbb700</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Edit' or . = 'Edit')]</value>
-      <webElementGuid>e97336c9-1e50-4364-8974-4fb803f4b7a8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

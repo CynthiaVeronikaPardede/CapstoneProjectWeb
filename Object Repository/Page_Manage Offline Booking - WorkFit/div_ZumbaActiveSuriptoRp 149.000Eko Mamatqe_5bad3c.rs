@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ZumbaActiveSuriptoRp 149.000Eko Mamatqe_5bad3c</name>
+   <tag></tag>
+   <elementGuidId>069602fd-f2bd-4f52-85cc-d6d2451c59e2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>edacd8e3-9ea5-4f3f-b752-07265863444b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-col px-5 md:flex-row md:items-center</value>
+      <webElementGuid>7b9403f0-ec63-4f77-a2c5-760f6bb3964b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ZumbaActiveSuriptoRp 149.000Eko Mamatqe1@gmail.comWednesday (13:00 - 15:00); </value>
+      <webElementGuid>801aa5af-166b-474a-8841-462b63214de0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[2]/div[@class=&quot;mb-6 grid grid-cols-1 gap-3 pt-36 md:grid-cols-2 md:gap-6 xl:grid-cols-2 2xl:grid-cols-3&quot;]/div[1]/div[@class=&quot;relative h-full rounded-20 border bg-white py-4 shadow-4&quot;]/div[@class=&quot;flex flex-col px-5 md:flex-row md:items-center&quot;]</value>
+      <webElementGuid>924be1ee-04af-4d7a-b95d-ec85710ba831</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/div/div[3]</value>
+      <webElementGuid>22bf04f2-e88e-4834-be12-c322352c850d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yoga'])[1]/following::div[10]</value>
+      <webElementGuid>c063a8c0-9c76-4b05-9f9d-f20bb30480e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zumba'])[1]/following::div[10]</value>
+      <webElementGuid>61d1a5a3-1d28-4b5f-b4a1-589ce1c5f770</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[3]</value>
+      <webElementGuid>2bef86e1-f8f8-40f4-8ebf-c031911056b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ZumbaActiveSuriptoRp 149.000Eko Mamatqe1@gmail.comWednesday (13:00 - 15:00); ' or . = 'ZumbaActiveSuriptoRp 149.000Eko Mamatqe1@gmail.comWednesday (13:00 - 15:00); ')]</value>
+      <webElementGuid>5ec63c58-3b9c-46d3-80ef-9e8ca334963c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

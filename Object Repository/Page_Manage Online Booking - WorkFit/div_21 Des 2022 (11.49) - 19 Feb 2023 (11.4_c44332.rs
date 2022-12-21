@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_21 Des 2022 (11.49) - 19 Feb 2023 (11.4_c44332</name>
+   <tag></tag>
+   <elementGuidId>3eb32965-0492-4d59-8a50-76f67801fd62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.relative.rounded-20.border.bg-white.py-4.shadow-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ba8ed884-cf51-41a4-9068-4146164a4594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative rounded-20 border bg-white py-4 shadow-4</value>
+      <webElementGuid>46dda895-77af-4a60-9330-c30fd633942f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>21 Des 2022 (11.49) - 19 Feb 2023 (11.49)PENDINGZumba Updated BarengZumbaRp 180.000Eko Mamatqe1@gmail.comActive</value>
+      <webElementGuid>f18882af-8545-460b-8a26-110c2895bc64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[2]/div[@class=&quot;mb-6 grid grid-cols-1 gap-3 pt-36 md:grid-cols-2 md:gap-6 xl:grid-cols-2 2xl:grid-cols-3&quot;]/div[1]/div[@class=&quot;relative rounded-20 border bg-white py-4 shadow-4&quot;]</value>
+      <webElementGuid>92b0e5ed-69e7-4b8b-a766-9cfaffe5ae9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e2223236-4887-4b3e-a6dd-3cb71c12c07d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative rounded-20 border bg-white py-4 shadow-4</value>
+      <webElementGuid>6e6da9f2-70e7-42b3-825b-7881c0a12459</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>21 Des 2022 (11.49) - 19 Feb 2023 (11.49)PENDINGZumba Updated BarengZumbaRp 180.000Eko Mamatqe1@gmail.comActive</value>
+      <webElementGuid>46f2a85c-3c4d-4fe9-af2b-2bb42be06e29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[2]/div[@class=&quot;mb-6 grid grid-cols-1 gap-3 pt-36 md:grid-cols-2 md:gap-6 xl:grid-cols-2 2xl:grid-cols-3&quot;]/div[1]/div[@class=&quot;relative rounded-20 border bg-white py-4 shadow-4&quot;]</value>
+      <webElementGuid>66b60c23-6f9b-4024-8d50-5e4e8dbd1eb8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>5c41c5e2-e189-4021-8a57-cf04ee1663f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yoga'])[1]/following::div[4]</value>
+      <webElementGuid>8ae77f5f-843c-4528-8a20-44e559261dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zumba'])[1]/following::div[4]</value>
+      <webElementGuid>383f74e6-b6ea-415a-ba1c-214081602a9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div[2]/div/div/div</value>
+      <webElementGuid>85fbe948-44a2-4e43-89a4-db920ebe95c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '21 Des 2022 (11.49) - 19 Feb 2023 (11.49)PENDINGZumba Updated BarengZumbaRp 180.000Eko Mamatqe1@gmail.comActive' or . = '21 Des 2022 (11.49) - 19 Feb 2023 (11.49)PENDINGZumba Updated BarengZumbaRp 180.000Eko Mamatqe1@gmail.comActive')]</value>
+      <webElementGuid>a44a5f07-4bc7-44a6-9581-5a2668d8a597</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

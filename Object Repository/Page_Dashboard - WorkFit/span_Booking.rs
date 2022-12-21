@@ -22,6 +22,38 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
+      <webElementGuid>52f1e5bc-7f9e-45af-b704-a7cdb473e219</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ml-3</value>
+      <webElementGuid>992178b0-6cb0-45d6-920f-e68eff94fa44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Booking</value>
+      <webElementGuid>35ae0428-4980-4cc6-9c3d-601609d7a7d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/aside[@class=&quot;fixed top-0 bottom-0 left-0 z-30 mt-14 hidden w-52 leading-none transition-all duration-300 sm:hidden md:block&quot;]/div[@class=&quot;relative z-40 hidden h-full flex-col justify-between overflow-y-auto bg-white py-2 px-3 sm:flex md:h-full&quot;]/div[@class=&quot;relative&quot;]/ul[1]/li[6]/a[1]/div[@class=&quot;mb-1 flex items-center rounded-lg p-2 text-sm font-normal text-neutral-80 transition-all duration-300 ease-in-out hover:bg-indigo-100&quot;]/span[@class=&quot;ml-3&quot;]</value>
+      <webElementGuid>7b54ec43-df54-4c94-9bfa-54446840b81a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
       <webElementGuid>59559bae-06f8-490f-ad5a-6d56ddcf200f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +65,7 @@
       <webElementGuid>f362264a-c3af-4ddc-a780-c337f3495d4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -406,7 +438,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/aside/div/div/ul/li[6]/a/div/span</value>
-      <webElementGuid>35bb9140-5c78-4fe0-8b34-3dafd1762c23</webElementGuid>
+      <webElementGuid>b938276f-9a6b-432b-8201-a510c75cc16d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -414,7 +446,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Classes'])[1]/following::span[1]</value>
-      <webElementGuid>42195a24-5063-4f75-a940-d4bf1185b742</webElementGuid>
+      <webElementGuid>899c5025-fa62-49fa-84f7-32401fd1295a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -422,7 +454,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Classes'])[1]/following::span[2]</value>
-      <webElementGuid>a008a1b9-09e7-4309-af04-a50b69a4b362</webElementGuid>
+      <webElementGuid>b671273b-b8f3-4166-85fc-dcbdbf604552</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -430,7 +462,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Content'])[1]/preceding::span[1]</value>
-      <webElementGuid>b2862bd6-7e12-4ef1-96d9-4ba5ca22830b</webElementGuid>
+      <webElementGuid>ad594a6d-855c-4a0f-80d9-d229b88c30c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -438,7 +470,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Article'])[1]/preceding::span[1]</value>
-      <webElementGuid>a862c5cb-626d-44d3-98c5-9752370c70e7</webElementGuid>
+      <webElementGuid>a60a8356-664a-4933-a698-81d721544851</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -446,7 +478,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Booking']/parent::*</value>
-      <webElementGuid>53e0668c-6657-45bd-8f42-29eaa43212e5</webElementGuid>
+      <webElementGuid>092cf237-b423-47a2-a897-02d348eeaf8c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -454,7 +486,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[6]/a/div/span</value>
-      <webElementGuid>4e9da781-25eb-47bc-8c1f-f55edb4ad6ad</webElementGuid>
+      <webElementGuid>c48d9021-1130-4f65-a1c1-dd6c0d2ff65c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -462,6 +494,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Booking' or . = 'Booking')]</value>
-      <webElementGuid>41be7896-18ae-4100-8702-bd4b677e9f26</webElementGuid>
+      <webElementGuid>da96c802-b88a-4505-9f0b-2933ee6de192</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

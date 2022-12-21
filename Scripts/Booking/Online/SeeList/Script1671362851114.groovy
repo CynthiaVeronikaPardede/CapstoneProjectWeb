@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://fe-react-o3tcnp4lu-capstone-6.vercel.app/')
+
+WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/Page_WorkFit/a_Login'))
 
@@ -31,13 +31,16 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login Page - WorkF
 
 WebUI.click(findTestObject('Object Repository/Page_Login Page - WorkFit/button_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/span_Booking'))
+WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/div_Booking'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Booking - WorkFit/span_Online'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Offline Booking - WorkFit/div_Online'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Online Booking - WorkFit/div_Coba ajaEditssRp 10.000QE1 Testqe1gmail.com'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Online Booking - WorkFit/div_21 Des 2022 (11.49) - 19 Feb 2023 (11.4_c44332'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Online Booking - WorkFit/h5_Coba aja'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Online Booking - WorkFit/div_21 Des 2022 (13.29) - 20 Jan 2023 (13.2_3ee283'))
+
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Manage Online Booking - WorkFit/div_21 Des 2022 (20.28) - 20 Jan 2023 (20.2_585953'), 
+    0)
 
 WebUI.closeBrowser()
 

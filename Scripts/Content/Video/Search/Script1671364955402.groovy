@@ -34,7 +34,7 @@ WebUI.click(findTestObject('Object Repository/Page_Login Page - WorkFit/button_S
 WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/span_Video'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Manage Video - WorkFit/input_Manage Video_block w-full rounded-lg _9ee80f'), 
-    'ssa')
+    'a')
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Manage Video - WorkFit/div_Video not found'), 0)
 

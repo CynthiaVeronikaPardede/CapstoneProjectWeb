@@ -33,14 +33,13 @@ WebUI.click(findTestObject('Object Repository/Page_Login Page - WorkFit/button_S
 
 WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/div_Video'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Video - WorkFit/div_Cara update videoCara update video'))
-
 WebUI.click(findTestObject('Object Repository/Page_Manage Video - WorkFit/i_Add New_fi fi-sr-play text-4xl text-white'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Video - WorkFit/div_Cara update videoCara update video'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Video - WorkFit/div_mbmb'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Manage Video - WorkFit/div_Cara update videoCara update videoCobaCoba'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Page_Manage Video - WorkFit/video'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Video - WorkFit/video'))
 
 WebUI.closeBrowser()
 

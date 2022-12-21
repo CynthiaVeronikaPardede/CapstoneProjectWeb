@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_21 Des 2022 (18.57) - 20 Jan 2023 (18.5_079988</name>
+   <tag></tag>
+   <elementGuidId>3768c5c3-0bc1-42d1-bd82-7fdb8f605f3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2cd29c9b-83a2-415c-bcc7-088afdd31326</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative h-full rounded-20 border bg-white py-4 shadow-4</value>
+      <webElementGuid>7919b989-c0fc-444e-886d-44c8ec6ed852</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>21 Des 2022 (18.57) - 20 Jan 2023 (18.57)ZumbaActiveSuriptoRp 149.000Eko Mamatfe2@gmail.comWednesday (13:00 - 15:00); </value>
+      <webElementGuid>e09c9619-24c1-4d54-815c-3c5affa349bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[2]/div[@class=&quot;mb-6 grid grid-cols-1 gap-3 pt-36 md:grid-cols-2 md:gap-6 xl:grid-cols-2 2xl:grid-cols-3&quot;]/div[3]/div[@class=&quot;relative h-full rounded-20 border bg-white py-4 shadow-4&quot;]</value>
+      <webElementGuid>996ba494-0d33-4a40-aa4f-7c2bc8b64be3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div[3]/div</value>
+      <webElementGuid>33092ebe-0a8a-4b17-9268-699b400b51e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[2]/following::div[14]</value>
+      <webElementGuid>8f78d597-053d-415d-8076-33fa428c7a3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yoga'])[2]/following::div[14]</value>
+      <webElementGuid>b799a29c-2d40-4797-8ed1-caabaa82bf90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>390c11a9-2fa8-4a8c-8843-a592e82d201e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '21 Des 2022 (18.57) - 20 Jan 2023 (18.57)ZumbaActiveSuriptoRp 149.000Eko Mamatfe2@gmail.comWednesday (13:00 - 15:00); ' or . = '21 Des 2022 (18.57) - 20 Jan 2023 (18.57)ZumbaActiveSuriptoRp 149.000Eko Mamatfe2@gmail.comWednesday (13:00 - 15:00); ')]</value>
+      <webElementGuid>0596afb3-8c5e-4794-b790-4961abdc8c01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

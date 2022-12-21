@@ -33,18 +33,19 @@ WebUI.click(findTestObject('Object Repository/Page_Login Page - WorkFit/button_S
 
 WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/div_Booking'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Booking - WorkFit/div_Online'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Offline Booking - WorkFit/div_Offline'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Online Booking - WorkFit/div_19 Des 2022 (12.26) - 19 Mar 2023 (12.2_35dbf8'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Offline Booking - WorkFit/div_ZumbaActiveSuriptoRp 149.000Eko Mamatqe_5bad3c'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Online Booking - WorkFit/div_21 Des 2022 (04.07) - 21 Mar 2023 (04.0_357df4'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Offline Booking - WorkFit/div_21 Des 2022 (11.45) - 21 Mar 2023 (11.4_7a5d5f'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Online Booking - WorkFit/div_19 Des 2022 (22.28) - 17 Feb 2023 (22.2_3a0be8'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Offline Booking - WorkFit/div_21 Des 2022 (15.00) - 20 Jan 2023 (15.0_978c0c'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Online Booking - WorkFit/div_Push upPush UpRp 250.000Angeline Oneang_9cc935'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Offline Booking - WorkFit/div_21 Des 2022 (18.36) - 20 Jan 2023 (18.3_3b9587'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Manage Online Booking - WorkFit/div_20 Des 2022 (20.32) - 19 Jan 2023 (20.3_ba3455'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Page_Manage Offline Booking - WorkFit/div_21 Des 2022 (20.10) - 20 Jan 2023 (20.1_efbc6a'))
+
+WebUI.click(findTestObject('Object Repository/Page_Manage Offline Booking - WorkFit/div_21 Des 2022 (21.21) - 20 Jan 2023 (21.2_88f6e6'))
 
 WebUI.closeBrowser()
 

@@ -19,11 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://fe-react-o3tcnp4lu-capstone-6.vercel.app/')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/Page_WorkFit/a_Login'))
+
+WebUI.click(findTestObject('Object Repository/Page_Login Page - WorkFit/input_Email_email'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Login Page - WorkFit/input_Email_email'), 'qe1@gmail.com')
 
@@ -35,9 +37,9 @@ WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/div_Class
 
 WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/span_Online'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/div_Loading'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/div_Online'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/i_Loading_fi fi-rr-menu-dots-vertical'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/i_Sit Up_fi fi-rr-menu-dots-vertical'))
 
 WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/button_Delete'))
 

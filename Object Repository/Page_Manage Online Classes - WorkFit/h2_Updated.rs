@@ -22,6 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
+      <webElementGuid>8edc88c0-9e85-442d-83fa-ba13cf22b83f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal2-title</value>
+      <webElementGuid>8dbf5358-a8a3-446b-8bf2-ce915f783f0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>swal2-title</value>
+      <webElementGuid>835c7e5c-4af2-4d7a-91fe-1c5175ee343c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Updated</value>
+      <webElementGuid>42ac5d3d-da3a-4dca-8122-b564b343e494</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;swal2-title&quot;)</value>
+      <webElementGuid>57e09c8f-4902-4729-8aa3-627a63993160</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>25cdbc02-6d3d-4b32-b5c4-d494895ee498</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal2-title</value>
+      <webElementGuid>954e7942-e492-4cb6-8ff2-a42661f2c106</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>swal2-title</value>
+      <webElementGuid>9639340e-08be-454c-93a3-8481d0d4f25e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Updated</value>
+      <webElementGuid>c98c94db-de68-4c5e-8aa1-6fd96197639b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;swal2-title&quot;)</value>
+      <webElementGuid>19bd46cf-3271-4b07-8dd1-eb09bd7b26af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
       <webElementGuid>3d2e0a9c-2b95-4ae0-a649-14d65250f17f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +113,7 @@
       <webElementGuid>6cedb6c5-220c-41ee-94a7-5420298e0586</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -41,7 +121,7 @@
       <webElementGuid>976da6a7-1291-4b3b-ba20-2588f1a834e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +142,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//h2[@id='swal2-title']</value>
-      <webElementGuid>7a0d8d82-06c6-432e-a8ff-919a8c63986f</webElementGuid>
+      <webElementGuid>b930b755-d499-454b-ab6c-e63e5de14827</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::h2[1]</value>
-      <webElementGuid>4c0200b7-f7d8-4b80-8886-cd9e325402a0</webElementGuid>
+      <webElementGuid>95698a34-c13a-4bba-8561-16ba7d509345</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'swal2-title', '&quot;', ')')])[1]/following::h2[1]</value>
-      <webElementGuid>f4cc845e-7723-4ede-afb9-69f93d62dc83</webElementGuid>
+      <webElementGuid>c0129173-892f-4887-97a8-800c7e1f2ad3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Online classes data successfully updated'])[1]/preceding::h2[1]</value>
-      <webElementGuid>6813fd58-9e8a-4ed6-b05b-cc6e09c23e24</webElementGuid>
+      <webElementGuid>ec1886dc-c936-4a3c-b46c-137bc9f86e36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::h2[1]</value>
-      <webElementGuid>9ec472d5-e930-44e0-b2ff-30794ade0f47</webElementGuid>
+      <webElementGuid>f9bd4793-4aaf-4563-bf3a-b23e4595c427</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +182,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Updated']/parent::*</value>
-      <webElementGuid>98116442-137b-4cb1-9ddf-481047db955a</webElementGuid>
+      <webElementGuid>50c66986-fc09-41ab-a9c2-e0a01525ddf9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +190,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/h2</value>
-      <webElementGuid>6f4370c9-eaea-4246-90f6-416ef9eba68f</webElementGuid>
+      <webElementGuid>80023c3d-2d0b-4797-9ee8-5cffdfe07b5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +198,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[@id = 'swal2-title' and (text() = 'Updated' or . = 'Updated')]</value>
-      <webElementGuid>84fa6c20-100b-4946-9a4e-d4ace6f4b667</webElementGuid>
+      <webElementGuid>6f6bb542-c5ec-4c10-af27-6edfe7057f15</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

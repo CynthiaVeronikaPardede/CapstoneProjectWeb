@@ -22,6 +22,38 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
+      <webElementGuid>bb1e0943-0c9d-48b4-825e-d86f4baf98d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-1 flex items-center rounded-lg p-2 text-sm font-normal text-neutral-80 transition-all duration-300 ease-in-out hover:bg-indigo-100</value>
+      <webElementGuid>555dc984-0c64-484b-b106-2b42eeae627a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Video</value>
+      <webElementGuid>6325903e-4dd6-4f7d-a69d-596661f82e7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/aside[@class=&quot;fixed top-0 bottom-0 left-0 z-30 mt-14 hidden w-52 leading-none transition-all duration-300 sm:hidden md:block&quot;]/div[@class=&quot;relative z-40 hidden h-full flex-col justify-between overflow-y-auto bg-white py-2 px-3 sm:flex md:h-full&quot;]/div[@class=&quot;relative&quot;]/ul[1]/li[8]/a[1]/div[@class=&quot;mb-1 flex items-center rounded-lg p-2 text-sm font-normal text-neutral-80 transition-all duration-300 ease-in-out hover:bg-indigo-100&quot;]</value>
+      <webElementGuid>30fc31cf-0d45-4141-9f4a-1851c133b735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
       <webElementGuid>b0ccbc5f-2035-475a-9be0-fa71705242e8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +65,7 @@
       <webElementGuid>1e82a336-cf47-4ef4-a5b6-7d3ef1f3c0d6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -54,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div/aside/div/div/ul/li[8]/a/div</value>
-      <webElementGuid>6640e94d-e6d4-46fa-988e-4610278ee8da</webElementGuid>
+      <webElementGuid>a4941d6a-282e-475e-a157-177a11c2aac5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Article'])[1]/following::div[1]</value>
-      <webElementGuid>76017b54-874f-4afb-a1eb-bc78ebcbb9ed</webElementGuid>
+      <webElementGuid>745da891-0ff9-4e7b-8941-bbc8d3cc17ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Manage Content'])[1]/following::div[2]</value>
-      <webElementGuid>40d75786-53ab-4e74-8055-7224ae6ee6e0</webElementGuid>
+      <webElementGuid>9b3f3b1f-7f06-402f-9949-de350cb8e863</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::div[1]</value>
-      <webElementGuid>31dfbc79-d911-43fb-a15e-6bbc2f222a2f</webElementGuid>
+      <webElementGuid>5a01fadc-439b-4404-b931-39a8a3808e50</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[8]/a/div</value>
-      <webElementGuid>b9d3a309-ea33-4fdb-bd89-173fa4e89108</webElementGuid>
+      <webElementGuid>b2a7cd76-1ee3-440b-9e2d-b283e7e89fc3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Video' or . = 'Video')]</value>
-      <webElementGuid>bd36218e-d636-4d6b-b021-7011d31f3ed9</webElementGuid>
+      <webElementGuid>2606cfba-a33e-4633-8f89-a272e1b23f97</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

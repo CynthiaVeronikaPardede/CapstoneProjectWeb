@@ -31,32 +31,19 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login Page - WorkF
 
 WebUI.click(findTestObject('Object Repository/Page_Login Page - WorkFit/button_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/span_Classes'))
+WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/div_Classes'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_Classes'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/span_Online'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/button_Add New'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/div_Online'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_Select workout category_css-ackcql'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/button_Add New'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_Push Up'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/input_Add New Online Classes_video_title'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_Select instructure_css-ackcql'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/div_Select workout category_css-ackcql'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_RIVALDO GABRIEL'))
-
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_Select schedule_css-ackcql'))
-
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_Wednesday'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/input_Wednesday (1300 - 1500)_price'), 
-    '234')
-
-WebUI.setText(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/textarea_Price_description'), 'Testing')
-
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/button_Save'))
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/h2_Saved'), 'Saved')
+WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/button_Cancel'))
 
 WebUI.closeBrowser()
 

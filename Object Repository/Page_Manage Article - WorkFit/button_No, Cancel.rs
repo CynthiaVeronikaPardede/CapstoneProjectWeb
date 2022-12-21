@@ -22,10 +22,50 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f896f77a-0ac7-4d22-aaf0-612f503719b9</webElementGuid>
+      <webElementGuid>f96dfea3-63f4-4235-91b8-bdfd66247bd8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0f17e654-dd61-48ef-82b7-8730a27c86bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal2-cancel text-secondary-red hover:text-secondary-red border border-secondary-red hover:bg-red-200 focus:ring-1 focus:outline-none focus:ring-secondary-red font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2</value>
+      <webElementGuid>c08a8325-05c6-4ce1-bd15-98ed5d9a30dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No, Cancel</value>
+      <webElementGuid>c1cd3656-9763-4ac3-87c8-6f97b851c270</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;swal2-shown swal2-height-auto&quot;]/body[@class=&quot;swal2-shown swal2-height-auto&quot;]/div[@class=&quot;swal2-container swal2-center swal2-backdrop-show&quot;]/div[@class=&quot;swal2-popup swal2-modal swal2-icon-warning swal2-show&quot;]/div[@class=&quot;swal2-actions&quot;]/button[@class=&quot;swal2-cancel text-secondary-red hover:text-secondary-red border border-secondary-red hover:bg-red-200 focus:ring-1 focus:outline-none focus:ring-secondary-red font-medium rounded-lg text-sm px-5 py-2.5 text-center mr-2 mb-2&quot;]</value>
+      <webElementGuid>3ff37a98-7eca-447a-9c9a-5ae0430bd4c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f896f77a-0ac7-4d22-aaf0-612f503719b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>251a9a7e-bc01-4d15-a525-3372b7f108fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -62,7 +102,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[9]</value>
-      <webElementGuid>487ac463-2110-46ac-b872-d6c07d4df028</webElementGuid>
+      <webElementGuid>5448b1db-9463-4754-9301-8749e20c73eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('You can', &quot;'&quot;, 't undo this action.')])[1]/following::button[1]</value>
-      <webElementGuid>63c9de45-1890-425d-b636-2d5fd848841a</webElementGuid>
+      <webElementGuid>a1839db4-074c-4914-87f0-c688e9bb63d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure'])[1]/following::button[1]</value>
-      <webElementGuid>bdb107c8-0b30-4fc2-b65f-097bbbb8484d</webElementGuid>
+      <webElementGuid>2160d042-87e4-4590-ae7a-abd55fdfbc91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/preceding::button[1]</value>
-      <webElementGuid>e933d9b2-a89e-48a5-9a8e-ea30d37317ad</webElementGuid>
+      <webElementGuid>3332e5dd-0a37-45f8-b284-d0e0c9a21db2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes, Delete it!'])[1]/preceding::button[2]</value>
-      <webElementGuid>8b85f7fb-3943-4c4d-8957-f3d440761f91</webElementGuid>
+      <webElementGuid>161dc9bb-ab1e-4835-b4ba-37bd9cb383df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +142,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='No, Cancel']/parent::*</value>
-      <webElementGuid>f557bc13-baeb-44c6-9f60-04b5d34587f1</webElementGuid>
+      <webElementGuid>162f1211-b6fe-4830-80a9-d231a59b2791</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +150,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/button</value>
-      <webElementGuid>94b5582e-cbef-4d08-b22c-ee80cbd33b68</webElementGuid>
+      <webElementGuid>f62b1930-57c5-4d1b-b394-41c29ac11539</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and (text() = 'No, Cancel' or . = 'No, Cancel')]</value>
-      <webElementGuid>08d7c969-796e-4a16-ab78-214117bf309b</webElementGuid>
+      <webElementGuid>7e007d35-1bac-47c9-ab2f-3e9652dbc008</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

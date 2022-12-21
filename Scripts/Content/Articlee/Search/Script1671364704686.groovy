@@ -19,9 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://fe-react-o3tcnp4lu-capstone-6.vercel.app/')
+
+WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/Page_WorkFit/a_Login'))
 
@@ -31,12 +31,12 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login Page - WorkF
 
 WebUI.click(findTestObject('Object Repository/Page_Login Page - WorkFit/button_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/span_Article'))
+WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/div_Article'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Manage Article - WorkFit/input_Manage Article_block w-full rounded-l_8014e5'), 
-    'tutorial 1')
+    'test')
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Article - WorkFit/img_Add New_absolute inset-0 h-full w-full _e9a355'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Article - WorkFit/div_Manage ArticleAdd New'))
 
 WebUI.closeBrowser()
 

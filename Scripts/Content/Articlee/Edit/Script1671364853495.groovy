@@ -33,17 +33,15 @@ WebUI.click(findTestObject('Object Repository/Page_Login Page - WorkFit/button_S
 
 WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/div_Article'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Article - WorkFit/button_Add New_absolute right-0 top-0 curso_ac71ed'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Article - WorkFit/i_Add New_fi fi-br-menu-dots-vertical'))
 
 WebUI.click(findTestObject('Object Repository/Page_Manage Article - WorkFit/button_Edit'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Article - WorkFit/input_Edit Article_title'))
-
-WebUI.setText(findTestObject('Object Repository/Page_Manage Article - WorkFit/textarea_Testing updated'), 'Testing updated edit test')
+WebUI.setText(findTestObject('Object Repository/Page_Manage Article - WorkFit/textarea_Coba add'), 'Coba add edit')
 
 WebUI.click(findTestObject('Object Repository/Page_Manage Article - WorkFit/button_Save'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Article - WorkFit/h2_Update'), 'Updated')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Article - WorkFit/h2_Update'), 'Update')
 
 WebUI.closeBrowser()
 

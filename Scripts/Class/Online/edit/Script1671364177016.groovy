@@ -19,41 +19,35 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
-
 WebUI.navigateToUrl('https://fe-react-o3tcnp4lu-capstone-6.vercel.app/')
+
+WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/Page_WorkFit/a_Login'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Login Page - WorkFit/input_Email_email'), 'qe1@gmail.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login Page - WorkFit/input_Password_password'), '76cbhrYOBskouz+4pezT5w==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login Page - WorkFit/input_Password_password'), 'PzcU1FTwvrz2Y2eY7/dWBg==')
 
 WebUI.click(findTestObject('Object Repository/Page_Login Page - WorkFit/button_Sign In'))
 
-WebUI.click(findTestObject('Object Repository/Page_Login Page - WorkFit/div_Sorryinvalid email or passwordOKNoCancel'))
+WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/div_Classes'))
 
-WebUI.click(findTestObject('Object Repository/Page_Login Page - WorkFit/i_Password_fi fi-rr-eye absolute right-0.5 _96921a'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_Online'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Login Page - WorkFit/input_Password_password_1'), '12344321')
+WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/span_Online'))
 
-WebUI.click(findTestObject('Object Repository/Page_Login Page - WorkFit/button_Sign In'))
-
-WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/span_Classes'))
-
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/span_Online'))
-
-WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/button_Yoga_absolute right-0 top-0 cursor-p_8e06ce'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/button_Sit Up_absolute right-0 top-0 cursor_ab5f38'))
 
 WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/button_Edit'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/div_Editss_css-ackcql'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/div_Zumba_css-ackcql'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/div_Yoga'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/div_Sit Up'))
 
 WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/button_Save'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/h2_Updated'))
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Manage Online Classes - WorkFit/h2_Updated'), 'Updated')
 
 WebUI.closeBrowser()
 

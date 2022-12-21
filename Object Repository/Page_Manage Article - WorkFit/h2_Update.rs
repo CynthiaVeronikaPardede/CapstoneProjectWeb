@@ -22,6 +22,46 @@
       <name>tag</name>
       <type>Main</type>
       <value>h2</value>
+      <webElementGuid>31cfdf3a-16a8-45cf-bf28-62f9cd97bf53</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>swal2-title</value>
+      <webElementGuid>5a1fd130-cd3c-4bd6-871c-625e4dc248a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>swal2-title</value>
+      <webElementGuid>89e11ba2-0150-46f7-b577-c9a23570a7d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Update</value>
+      <webElementGuid>36b9949e-03c7-44e0-bddb-d822eb18c1cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;swal2-title&quot;)</value>
+      <webElementGuid>779b3da0-d5e7-4895-8cab-3d9b72905637</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
       <webElementGuid>da8c3a04-6a71-48af-959f-e4d7d341a403</webElementGuid>
    </webElementProperties>
    <webElementProperties>
@@ -33,7 +73,7 @@
       <webElementGuid>04b57b71-35c8-4566-8bb3-c9db2c62ec8e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -41,7 +81,7 @@
       <webElementGuid>da6ea17d-cdae-4a0c-804a-3de9e60b7dce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
@@ -102,7 +142,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//h2[@id='swal2-title']</value>
-      <webElementGuid>8d9c10c6-7291-4bb2-9c48-583b5b4b4d90</webElementGuid>
+      <webElementGuid>d891f3d6-e9fe-4479-90c4-42b5bc3c3696</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +150,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/following::h2[1]</value>
-      <webElementGuid>afdf6df3-c1f7-4f43-a78f-54fa240cfbb7</webElementGuid>
+      <webElementGuid>f67870d7-803c-4af2-99f9-731c250f2fdb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +158,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('id(', '&quot;', 'swal2-title', '&quot;', ')')])[1]/following::h2[1]</value>
-      <webElementGuid>ea871ca0-5aac-4ad8-a404-27765e48193e</webElementGuid>
+      <webElementGuid>14881a91-6d21-44a1-8af8-804157e9671d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +166,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Article data successfully updated'])[1]/preceding::h2[1]</value>
-      <webElementGuid>2756a97a-9d46-4158-b55b-fdae7e58dea9</webElementGuid>
+      <webElementGuid>1a3105d9-4744-4f20-bb45-1766ff27cb64</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +174,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::h2[1]</value>
-      <webElementGuid>361edac8-8a9d-487b-b904-c0cd5b325953</webElementGuid>
+      <webElementGuid>d3dd2283-c0e6-4a5a-8564-52c69eb879a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,7 +182,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Update']/parent::*</value>
-      <webElementGuid>ffee4887-44f4-4114-955a-abf017735587</webElementGuid>
+      <webElementGuid>4174dc24-7c0b-4fac-ac13-7e9facb41002</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +190,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/h2</value>
-      <webElementGuid>2b31cab5-4e60-420e-9372-40de481f5b9c</webElementGuid>
+      <webElementGuid>6f88ef3c-894b-4645-a6b0-160f17dbc8ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +198,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//h2[@id = 'swal2-title' and (text() = 'Update' or . = 'Update')]</value>
-      <webElementGuid>aa287886-01d7-423c-b960-1733055ce382</webElementGuid>
+      <webElementGuid>f95a90ed-17b0-4e14-94aa-b036a3bea0d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

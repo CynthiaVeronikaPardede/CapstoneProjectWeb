@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_21 Des 2022 (15.00) - 20 Jan 2023 (15.0_978c0c</name>
+   <tag></tag>
+   <elementGuidId>45abaec2-3f81-467d-8989-22f12c3bd252</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>047bc9dc-7152-42f4-aa03-36bfa30f2820</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative h-full rounded-20 border bg-white py-4 shadow-4</value>
+      <webElementGuid>93999e2c-3cf9-40c3-8748-bd97993c8e0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>21 Des 2022 (15.00) - 20 Jan 2023 (15.00)PAIDYogaActiveAddRp 200.000Manise Donardomar123@gmail.comSunday (09:00 - 11:00); Wednesday (13:00 - 15:00); </value>
+      <webElementGuid>82b68160-39ba-44bf-ac29-740f97ee6e9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;flex h-full overflow-y-auto&quot;]/div[@class=&quot;flex w-full flex-1 flex-col&quot;]/div[@class=&quot;pl-0 pt-14 md:pl-52 lg:pl-52&quot;]/div[@class=&quot;container mx-auto px-6&quot;]/div[2]/div[@class=&quot;mb-6 grid grid-cols-1 gap-3 pt-36 md:grid-cols-2 md:gap-6 xl:grid-cols-2 2xl:grid-cols-3&quot;]/div[3]/div[@class=&quot;relative h-full rounded-20 border bg-white py-4 shadow-4&quot;]</value>
+      <webElementGuid>d4f5d85e-3b6d-446f-b0de-456dff108618</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div[2]/div/div[3]/div</value>
+      <webElementGuid>1efaf022-9e4c-481a-a822-482cf1cf9f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[2]/following::div[14]</value>
+      <webElementGuid>22cbf5d8-4b19-4187-8ecb-02b65a8c5024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Zumba'])[3]/following::div[14]</value>
+      <webElementGuid>add5803d-939b-4a85-8666-0369e83a0617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div</value>
+      <webElementGuid>1728ac94-6e9b-4da1-9d40-4b037508e3fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '21 Des 2022 (15.00) - 20 Jan 2023 (15.00)PAIDYogaActiveAddRp 200.000Manise Donardomar123@gmail.comSunday (09:00 - 11:00); Wednesday (13:00 - 15:00); ' or . = '21 Des 2022 (15.00) - 20 Jan 2023 (15.00)PAIDYogaActiveAddRp 200.000Manise Donardomar123@gmail.comSunday (09:00 - 11:00); Wednesday (13:00 - 15:00); ')]</value>
+      <webElementGuid>f5fb59a0-9507-4fba-b21d-8c9274698a25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

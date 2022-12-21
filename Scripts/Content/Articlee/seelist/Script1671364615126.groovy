@@ -21,6 +21,8 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://fe-react-o3tcnp4lu-capstone-6.vercel.app/')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/Page_WorkFit/a_Login'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Login Page - WorkFit/input_Email_email'), 'qe1@gmail.com')
@@ -31,9 +33,7 @@ WebUI.click(findTestObject('Object Repository/Page_Login Page - WorkFit/button_S
 
 WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/div_Article'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Article - WorkFit/div_ZumbaZumbaTesting updated'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Manage Article - WorkFit/html_Manage Article - WorkFit.swal2-popup.s_7d0ce4'), 
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Manage Article - WorkFit/div_Coba editCoba editCoba add edit'), 
     0)
 
 WebUI.closeBrowser()

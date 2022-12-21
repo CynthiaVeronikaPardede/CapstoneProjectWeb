@@ -12,13 +12,6 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>307128b3-491a-46d4-bbdf-24b8f85de8f2</testSuiteGuid>
    <testCaseLink>
-      <guid>bfb157d1-8654-4763-95db-036ebecf36a8</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Content/Video/ADD</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
       <guid>caacaa0a-5a91-4dfa-93cf-40d59fb570b2</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>

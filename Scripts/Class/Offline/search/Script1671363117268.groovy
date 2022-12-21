@@ -33,21 +33,14 @@ WebUI.click(findTestObject('Object Repository/Page_Login Page - WorkFit/button_S
 
 WebUI.click(findTestObject('Object Repository/Page_Dashboard - WorkFit/div_Classes'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_EditRp 150.000Sunday (0900 - 1100)Wedne_e5d352'))
-
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_PlankRp 111Wednesday (1300 - 1500)Mane _885bfe'))
-
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/img_Sunday (0900 - 1100)_absolute inset-0 h_a6d7ed'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_Offline'))
 
 WebUI.setText(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/input_Online_block w-full rounded-lg border_6968a0'), 
-    'Mane')
+    'yog')
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_PlankRp 111Wednesday (1300 - 1500)Mane _885bfe'))
+WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_YogaRp 155.500Sunday (0900 - 1100)Wedne_758fde'))
 
-WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_Pull UpRp 24.000Sunday (0900 - 1100)Wed_860b0f'))
-
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_Pull UpRp 24.000Sunday (0900 - 1100)Wed_1810b7'), 
-    0)
+WebUI.click(findTestObject('Object Repository/Page_Manage Offline Classes - WorkFit/div_YogaRp 200.000Sunday (0900 - 1100)Wedne_778311'))
 
 WebUI.closeBrowser()
 
